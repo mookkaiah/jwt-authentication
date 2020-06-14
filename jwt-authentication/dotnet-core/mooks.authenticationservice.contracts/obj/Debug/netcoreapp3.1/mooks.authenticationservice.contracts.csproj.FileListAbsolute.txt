@@ -1,0 +1,8 @@
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\bin\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.deps.json
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\bin\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.dll
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\bin\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.pdb
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\obj\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.AssemblyInfoInputs.cache
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\obj\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.AssemblyInfo.cs
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\obj\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.dll
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\obj\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.pdb
+D:\MyDocuments\TechLearn\AWS\mooks-aws-devops-repository\dev-ops\authentication-service\dotnet-core\mooks.authenticationservice.contracts\obj\Debug\netcoreapp3.1\mooks.authenticationservice.contracts.csprojAssemblyReference.cache
